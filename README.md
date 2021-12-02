@@ -4,7 +4,7 @@
 
 ## Hello 👋 
 
-My name is Josué, I'm from Guatemala and I'm an Backend Software Engineer.
+My name is Josué, I'm from Guatemala and I'm a Backend Software Engineer.
 
 I am passionate about learning, programming, and sharing my knowledge, experiences, and skills to help others. I dream that my code contributes to making this world better for everyone!
 
