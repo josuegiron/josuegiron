@@ -8,7 +8,7 @@ I am passionate about learning, programming, and sharing my knowledge, experienc
 
 * Currently working for [Tribal Worldwide GT](https://tribalworldwide.gt/) as a  Backend Software Engineer
 * I have developed some [libraries in Go](https://github.com/jgolang) for the community
-* I develop the backend of this [App](https://play.google.com/store/apps/details?id=school.palacios.gt.com.schoolapp).
+* I develop the backend of this [App](https://play.google.com/store/apps/details?id=school.palacios.gt.com.schoolapp)
 * I offer consulting hours, you can find a slot [here](https://www.linkedin.com/in/josuegiron93/)
 
 ## Skills
