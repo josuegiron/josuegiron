@@ -10,7 +10,7 @@ I am passionate about learning, programming, and sharing my knowledge, experienc
 
 * Currently working for [CuadraLa](https://www.cuadra.la/) as a  Backend Developer Manager
 * I have developed some [libraries in Go](https://github.com/jgolang) for the community
-* I I collaborate with [New Horizons Technology Group](https://github.com/new-horizons-tech-group)
+* I collaborate with [New Horizons Technology Group](https://github.com/new-horizons-tech-group)
 * I offer consulting hours, you can find a slot [here](https://www.linkedin.com/in/josuegiron93/)
 
 ## Skills
